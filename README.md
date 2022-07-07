@@ -7,12 +7,9 @@ Forum for discussing about diffrent programming languages.
 2. Technologies:
 
 Project is Created With:
-HTML(Frontend)
-CSS(Frontend)
-BOOTSTRAP(Frontend)
+HTML(Frontend), CSS(Frontend), BOOTSTRAP(Frontend)
 
-PHP(Backend)
-MySql(Database)
+PHP(Backend), MySql(Database)
 
 3. Setup:
 
